@@ -1,6 +1,6 @@
 # Tonie Search
 ## Description: 
-This is a search spin off of the google search site. It can be used to search about virtually anything and it returns text result, articles, videos and photos
+This is a personalized search website and it's basically a spin off of the google search site. It can be used to search about virtually anything and it returns text result, articles, videos and photos
 
 ## Live Demo
  Click [Here](https://tonie-search.netlify.app/search) to display the live demo of this Application
@@ -10,7 +10,6 @@ This is a search spin off of the google search site. It can be used to search ab
 * Tailwind CSS libary
 * Context API (for making Api calls)
 * Google Search API from Rapid Api Hub
-* Bing News Search Api from Rapid Api Hub (for cryptocurrency news)
 
 ## Features
 * A home page that contains a search bar which can be used to search for anything we want.
