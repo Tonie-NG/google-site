@@ -1,6 +1,6 @@
 # Tonie Search
 ## Description: 
-This is a search spin off of the google search site. It can be used to search about vitually anything and it returns text result, articles, videos and photos
+This is a search spin off of the google search site. It can be used to search about virtually anything and it returns text result, articles, videos and photos
 
 ## Live Demo
  Click [Here](https://tonie-search.netlify.app/search) to display the live demo of this Application
